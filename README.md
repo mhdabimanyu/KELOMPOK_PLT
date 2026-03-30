@@ -8,6 +8,7 @@ dikumpulkan.
 Project ini dibuat untuk mengatasi masalah kurangnya kesadaran masyarakat dalam pengelolaan 
 sampah serta memanfaatkan sampah yang masih memiliki nilai guna. Dengan adanya platform ini, 
 diharapkan tercipta lingkungan yang lebih bersih serta sistem ekonomi berbasis daur ulang.
+
 15 FITUR PENTING
 A. Sistem Pengguna
 1. Registrasi akun menggunakan email 
