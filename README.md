@@ -10,7 +10,6 @@ sampah serta memanfaatkan sampah yang masih memiliki nilai guna. Dengan adanya p
 diharapkan tercipta lingkungan yang lebih bersih serta sistem ekonomi berbasis daur ulang.
 
 15 FITUR PENTING
-
 A. Sistem Pengguna
 1. Registrasi akun menggunakan email 
 2. Login pengguna 
@@ -27,7 +26,7 @@ C. Sistem Penjemputan
 10. Penjadwalan pickup 
 11. Tracking status penjemputan 
 12. Riwayat penjemputan
- 
+
 D. Sistem Reward
 14. Pemberian poin berdasarkan sampah 
 15. Penukaran poin menjadi uang atau voucher 
